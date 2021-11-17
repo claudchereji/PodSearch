@@ -1,0 +1,2 @@
+youtube-dl “url to youtube video, playlist, or channel goes here” -i --write-auto-sub --sub-format srt --skip-download
+
