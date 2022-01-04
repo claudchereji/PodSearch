@@ -1,0 +1,1 @@
+youtube-dl #the url to the youtube channel you want to download transcripts from goes here# -i --write-auto-sub --sub-format srt --skip-download && find . -name "*.vtt" -exec python3 vtt2txt.py {} \;
